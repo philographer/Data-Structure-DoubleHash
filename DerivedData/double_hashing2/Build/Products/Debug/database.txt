@@ -1,0 +1,12 @@
+13 11 7
+34144684 6 find@inha.edu
+73154591 12 inha@inha.edu
+21231786 15 university@inha.edu
+14126104 7 gosu@private.com
+86812887 9 mario@nin.com
+92701886 18 super@nin.com
+47552890 24 story@remember.com
+14792885 21 silsu@banbok.com
+73136890 19 ssulmal@upda.com
+60383885 16 random@best.com
+47357886 15 suffix@tree.com
